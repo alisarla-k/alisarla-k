@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ali
-- - 👀 I’m interested in Front End
+-  👀 I’m interested in Front End
 - 🔭 I’m currently working on HTML & CSS & js
 - 🌱 I’m currently learning React
 - 📫 How to reach me : ali.slk.1381@gmai.com
