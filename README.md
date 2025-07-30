@@ -1,10 +1,8 @@
 - 👋 Hi, I’m ali
 -  👀 I’m interested in Front End
-- 🔭 I’m currently working on HTML & CSS & js & React 
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on HTML & CSS & js & React & Next
+- 🌱 I’m currently learning React & Next
 - 📩How to reach me : ali.slk.1381@gmai.com
-- ![](https://raw.githubusercontent.com/alisarla-k/alisarlak/master/profile.gif)](https://www.alisarla-k.com/)
-
 
 ### Language
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
