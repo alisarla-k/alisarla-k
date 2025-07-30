@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React
 - 📩How to reach me : ali.slk.1381@gmai.com
 
-- [![](https://raw.githubusercontent.com/alisarla-k/alisarlak/master/profile.gif)](https://www.alisarla-k.com/)<!-- If you want the template for my gif, email me! -->
+
 
 ### Language
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
