@@ -14,21 +14,22 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 
 ### 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <div style="flex: 1 1 450px; max-width: 450px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=alisarla-k&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" 
-      style="width: 100%; height: auto;" 
-    />
-  </div>
-
-  <div style="flex: 1 1 450px; max-width: 450px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisarla-k&hide=react&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" 
-      style="width: 100%; height: auto;" 
-    />
-  </div>
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alisarla-k&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"
+    style="width: 100%; max-width: 320px; height: auto;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisarla-k&hide=react&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"
+    style="width: 100%; max-width: 320px; height: auto;"
+  />
 </div>
+
 
 
 <a width="100%" ><img width="50%" height="137px" src="https://github-readme-stats.vercel.app/api?username=alisarla-k&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
