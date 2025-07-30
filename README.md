@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on HTML & CSS & js & React 
 - 🌱 I’m currently learning React
 - 📩How to reach me : ali.slk.1381@gmai.com
-
+- ![](https://raw.githubusercontent.com/alisarla-k/alisarlak/master/profile.gif)](https://www.alisarla-k.com/)
 
 
 ### Language
