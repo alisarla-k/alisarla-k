@@ -7,19 +7,15 @@
 - [![](https://raw.githubusercontent.com/alisarla-k/alisarlak/master/profile.gif)](https://www.alisarla-k.com/)<!-- If you want the template for my gif, email me! -->
 
 ### Language
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-
-[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)]
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)]
+[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)]
+[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)]
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
+Framework
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)]
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-
-### Technologies
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-
 
 ### Cybersecurity Projects
 
