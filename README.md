@@ -7,7 +7,7 @@
 - [![](https://raw.githubusercontent.com/alisarla-k/alisarlak/master/profile.gif)](https://www.alisarla-k.com/)<!-- If you want the template for my gif, email me! -->
 
 ## Language
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+[!HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
