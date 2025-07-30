@@ -23,7 +23,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="https://t.me/ali12web">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)</a>
-<a href="https:/https://mail.google.com//ali.slk.1381@gmai.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
+<a href="https://mail.google.com//ali.slk.1381@gmai.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ali-sarlak/"> ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)</a>
 
 
