@@ -26,7 +26,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   
 <a href="ali.slk.1381@gmai.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
 
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)]</a>
+<a href="https://www.linkedin.com/in/ali-sarlak/"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)</a>
 </div>
 
 <!---
