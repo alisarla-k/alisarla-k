@@ -2,7 +2,7 @@
 -  👀 I’m interested in Front End
 - 🔭 I’m currently working on HTML & CSS & js & React 
 - 🌱 I’m currently learning React
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)] How to reach me : ali.slk.1381@gmai.com
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)How to reach me : ali.slk.1381@gmai.com
 
 - [![](https://raw.githubusercontent.com/alisarla-k/alisarlak/master/profile.gif)](https://www.alisarla-k.com/)<!-- If you want the template for my gif, email me! -->
 
