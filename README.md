@@ -12,6 +12,7 @@
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 ### 📊 GitHub Stats
 
